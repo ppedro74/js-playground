@@ -1,0 +1,16 @@
+{
+  "name": "js-playground",
+  "workspaces": {
+	  "packages": [ "workspaces/**/*" ]
+  },
+  "version": "1.0.0",
+  "description": "my js playground",
+  "main": "index.js",
+  "repository": "https://github.com/ppedro74/js-playground.git",
+  "author": "ppedro74 <tiago.private@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "concurrently": "^7.0.0"
+  }
+}
